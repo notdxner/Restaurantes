@@ -1,0 +1,20 @@
+/* Estilo da página de boas-vindas */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+}
+
+.bem-vindo {
+    text-align: center;
+    padding-top: 20%; /* Ajuste a porcentagem conforme necessário */
+}
+
+.bem-vindo h1 {
+    font-size: 48px;
+    color: white;
+}
